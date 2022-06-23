@@ -8,5 +8,3 @@ My name is Keiron Chaudhry, I'm a software developer undergoing training and wor
 - 😄 Pronouns: he/him.
 
 If you're a fellow student doing the same course or someone just genuinely interested in what I'm doing, please don't hesitate to contact me!
-
-* - K
