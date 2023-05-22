@@ -12,7 +12,7 @@ My name is Keiron, I'm a Junior Full Stack Software Developer, recently graduate
 
 <hr/>
 
-- 🌱 I have a confident skillset and familiarity with the following software tools: HTML, CSS + Bootstrap and Materialize, JavaScript + React.js, Python + Django (REST) Framework and Flask, and familiarity with PostgreSQL.
+- 🌱 I have a confident skillset and familiarity with the following software tools: HTML, CSS + Bootstrap and Materialize, JavaScript + React.js, Python + Django (REST) Framework and Flask, and familiarity with PostgreSQL. I am also confident writing tests in both Jest and Django Test Case.
 
 <hr/>
 
