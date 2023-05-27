@@ -8,7 +8,7 @@ My name is Keiron, I'm a Junior Full Stack Software Developer, recently graduate
 
 <hr/>
 
-- 📓 Meanwhile, my current aims are: refining my PostgreSQL skills, learning additional React.js tools + Jest and I refining my Django/Flask + Unittesting skills.
+- 📓 Meanwhile, my current aims are: learning React Native, refining my general JavaScript skills and refining my unit testing skills in Jest.
 
 <hr/>
 
