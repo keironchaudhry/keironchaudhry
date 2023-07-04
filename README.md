@@ -5,6 +5,7 @@ My name is Keiron, I'm a Junior Full Stack Software Developer, recently graduate
 <hr/>
 
 - 🔭 I have received my diploma associated with my completed five portfolio projects, all of which can be found pinned onto this GitHub profile.
+- :hibiscus: I have worked on 5 academic projects and 4 hackathon projects, notwithstanding some smaller projects that I am currently focusing on.
 
 <hr/>
 
