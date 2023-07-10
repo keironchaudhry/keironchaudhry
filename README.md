@@ -32,6 +32,6 @@
 
 <hr/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keironchaudhry&theme=white)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=keironchaudhry&theme=vue)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keironchaudhry&layout=compact&theme=white)](https://github.com/bodthegod/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keironchaudhry&layout=compact&theme=white)](https://github.com/keironchaudhry/github-readme-stats)
