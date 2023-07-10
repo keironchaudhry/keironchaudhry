@@ -1,32 +1,14 @@
 ### Hi there 👋
 
-My name is Keiron, I'm a Junior Full Stack Software Developer, recently graduated from [Code Institute](https://codeinstitute.net/global/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+ROW+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=15207113220&hsa_grp=130324141420&hsa_ad=581817633110&hsa_src=g&hsa_tgt=aud-1599270334980:kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwntCVBhDdARIsAMEwAClRxvOaIaheWD_q2ubAxYcz2ezjLF9kyk-3x97xrHum1Cjce368AtMaAmTyEALw_wcB).
+<h3 align="centre">My name is Keiron, I'm a passionate and driven software developer.</h3>
 
 <hr/>
 
-- 🔭 I have received my diploma associated with my completed five portfolio projects, all of which can be found pinned onto this GitHub profile.
-- :hibiscus: I have worked on 5 academic projects and 4 hackathon projects, notwithstanding some smaller projects that I am currently focusing on.
-
-<hr/>
-
-- 📓 Meanwhile, my current aims are: learning React Native, refining my general JavaScript skills and refining my unit testing skills in Jest.
-
-<hr/>
-
-- 🌱 I have a confident skillset and familiarity with the following software tools: HTML, CSS + Bootstrap and Materialize, JavaScript + React.js, Python + Django (REST) Framework and Flask, and familiarity with PostgreSQL. I am also confident writing tests in both Jest and Django Test Case.
-
-<hr/>
-
-- 💾 I have already deployed: a HTML/CSS3 [static website](https://keironchaudhry.github.io/p1-marbella-spanish-school/) project, a JavaScript, HTML/CSS based ['Rock, Paper, Scissors, Lizard, Spock'](https://keironchaudhry.github.io/p2-rock-paper-scissors-lizard-spock/) game, a [Hotel Reservation system](https://los-santos-hotel-app.herokuapp.com/) using Python, a Full Stack Web Application called [Lingomeets](https://lingomeets.herokuapp.com/) using Python+Django, JavaScript, Bootstrap, HTML and CSS and a Full Stack Advanced Frontend Web Application called [Property Andalucia](https://property-andalucia-frontend.herokuapp.com/), which uses React.js for the frontend and Django REST Framework for the backend API design.
-
-<hr/>
-
-- :high_brightness: Meanwhile I am also participating in as many Hackathons associated with Code Institute as possible, having completed three already. Those projects can also be viewed as part of my portfolio: [ChatWIT](https://women-in-tech-hackathon.herokuapp.com/) (Flask, JavaScript, CSS/HTML), an application which uses the openoi library to characterise legendary women pioneers from history that can be engaged with. [SmartVacation](https://iuliiakonovalova.github.io/revolutionising-finance-hackathon/) (JavaScript, CSS/HTML), an application which combines various APIs to calculate across currencies and return users a list of to-dos in their travel destination and [Saber Scroll](https://amylour.github.io/star_wars_hackathon/) (JavaScript, CSS/HTML), a gaming application based on the theme of Star Wars using animated sprites, progressive-level difficulties, life containers + point system.
+- 🔭 Check out my projects!
 
 <hr/>
 
 - 📫 How to reach me: keironliamchaudhry@outlook.com.
-- 😄 Pronouns: he/him.
 
 <hr/>
 
@@ -47,3 +29,9 @@ My name is Keiron, I'm a Junior Full Stack Software Developer, recently graduate
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   
 </div>
+
+<hr/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keironchaudhry&theme=white)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keironchaudhry&layout=compact&theme=white)](https://github.com/bodthegod/github-readme-stats)
