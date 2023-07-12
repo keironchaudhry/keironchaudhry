@@ -34,4 +34,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=keironchaudhry&theme=vue)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keironchaudhry&layout=compact&theme=white)](https://github.com/keironchaudhry/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=keironchaudhry)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keironchaudhry)](https://github.com/anuraghazra/github-readme-stats)
