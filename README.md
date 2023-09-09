@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="centre">My name is Keiron, I'm a passionate and driven software developer.</h3>
+<h3 align="centre">Junior Full Stack Software Developer.</h3>
 
 <hr/>
 
