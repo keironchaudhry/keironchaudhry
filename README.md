@@ -1,4 +1,4 @@
-<h3 align="centre">Greetings. My name is Keiron and I'm a Junior Full Stack Software Developer.</h3>
+<h3 align="centre">Hey! I'm Keiron and I'm a Junior Full Stack Software Developer.</h3>
 
 <hr/>
 
