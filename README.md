@@ -19,12 +19,16 @@
   ![React](https://img.shields.io/badge/react-%230818A8.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-5F8575?style=for-the-badge&logo=django&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React%20Native-%23000080.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Django REST](https://img.shields.io/badge/Django%20REST%20Framework-00A36C?style=for-the-badge&logo=django&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%23AFE1AF.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Materialize](https://img.shields.io/badge/Materialize-757575?style=for-the-badge&logo=material-design-icons&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=%2361DAFB)
+  ![Express.js](https://img.shields.io/badge/Express.js-%232AAA8A.svg?style=for-the-badge&logo=express&logoColor=white)
   
 </div>
 
